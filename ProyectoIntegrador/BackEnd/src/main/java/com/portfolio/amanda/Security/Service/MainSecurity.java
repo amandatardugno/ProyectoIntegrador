@@ -1,5 +1,5 @@
 
-package com.portfolio.amanda.Security;
+package com.portfolio.amanda.Security.Service;
 
 import com.portfolio.amanda.Security.Service.UserDetailsImpl;
 import com.portfolio.amanda.Security.jwt.JwtEntryPoint;
